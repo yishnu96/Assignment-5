@@ -1,8 +1,8 @@
 # Assignment 5
 This is the final Assignment of MLCC Study Jam, DSC Kolkata. In this Assignment, you're asked to solve the official MLCC Notebooks. These notebooks are a property of Google Inc.
-To get the final course completion certificate, complete all the notebooks and commit them to the branches having your github ID.
+To get accepted for final evaluation, complete all the notebooks and commit them to the branches having your github ID.
 
-**NOTE: All the Code cells of the notebooks must have the output to qualify for the course completion certificate and the official google goodies**
+**NOTE: All the Code cells of the notebooks must have the output to get accepted for final submission and for the official google goodies**
 
 To commit to the branches using colaboratory use the following video as the guide.
 [MLCC - DSC Kolkata Version | Github - Google Colaboratory Workflow](https://www.youtube.com/watch?v=Jlhf9eY_0N0)
